@@ -1,4 +1,4 @@
-# alias-scan-#automated-nmap-scan-using-aliases-bat-and-nmapbar
+# scan-#automated-nmap-scan-using-aliases-bat-and-nmapbar
 Automate and combine full port scan and perform default scripts and versions on found ports. ***potentially dangerous modifications
 
 
@@ -8,7 +8,7 @@ bat - for colorfull output
 
 source:https://github.com/sharkdp/bat
 
-
+=============================================
 
 nmapbar - for progress bar on full port scan
 
