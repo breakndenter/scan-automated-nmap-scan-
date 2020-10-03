@@ -1,6 +1,12 @@
 # scan-#automated-nmap-scan-using-aliases-bat-and-nmapbar
 Automate and combine full port scan and perform default scripts and versions on found ports. ***potentially dangerous modifications
 
+Steps performed:
+Full ports scan (can be adjusted via modification of nmapbar.rb ) with lovely progress bar thanks to nmapbar 
+Targeted port scan (-sC -sV) on found ports 
+Print result of targeted scan with colors thanks to bat
+Save both full ports and targeted ports scans inside newly created nmap folder (using -o instead of -oA... if needed adjust as you need)
+
 
 Prerequisites:
 
@@ -17,6 +23,11 @@ source:https://github.com/Mr-P4p3r/nmapbar
 (.bashrc looks for it in /opt so git clone there or edit bashrc)
 
 =============================================
+*Important step:
+Since we are tasking nmapbar with the full port scan for its lovely progress bar we need to adjust it to our needs
+
+sed -i 's/nmap  \-sS \-A \-p\- \-n \-T4 \-oN completescan\#{ARGV\[1\]}.txt \#{ARGV\[1\]}"/nmap \-p\- \-T4 \-\-max\-retries 0 \-o allports.log \#{ARGV\[1\]}"/g' /opt/nmapbar/nmapbar.rb
+
 
 So what's left is to add some aliases to your bashrc and we are done :)
 
