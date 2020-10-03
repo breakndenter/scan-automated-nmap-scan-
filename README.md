@@ -5,10 +5,13 @@ Automate and combine full port scan and perform default scripts and versions on 
 Prerequisites:
 
 bat - for colorfull output
+
 source:https://github.com/sharkdp/bat
 
 nmapbar - for progress bar on full port scan
+
 source:https://github.com/Mr-P4p3r/nmapbar
+
 (.bashrc looks for it in /opt so git clone there or edit bashrc)
 
 =============================================
