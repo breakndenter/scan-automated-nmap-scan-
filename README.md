@@ -18,7 +18,7 @@ source:https://github.com/Mr-P4p3r/nmapbar
 
 =============================================
 
-So what is left is to add some aliases to your bashrc and we are done :)
+So what's left is to add some aliases to your bashrc and we are done :)
 
 the things we need addded to bashrc:
 
