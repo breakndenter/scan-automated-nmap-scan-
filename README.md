@@ -21,7 +21,7 @@ nmapbar - for progress bar on full port scan
 
 source:https://github.com/Mr-P4p3r/nmapbar
 
-(.bashrc looks for it in /opt so git clone there or edit bashrc)
+(allports alias looks for it in /opt so git clone there or edit your bashrc)
 
 ============================================= 
 
