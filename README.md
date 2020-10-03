@@ -38,6 +38,6 @@ eighther use vi or add using echo and base64
 echo YWxpYXMgcG9ydHM9J2VjaG8gWTJGMElHRnNiSEJ2Y25SekxteHZaeUI4SUdGM2F5QW5MMjl3Wlc0dmV5QnpJRDBnSkRFN0lHWnZjaUFvYVNBOUlEVTdJR2tnUEQwZ1RrWXRORHNnYVNzcktTQnpJRDBnYzNWaWMzUnlLQ1JwTERFc2JHVnVaM1JvS0NScEtTMDBLU0FpWEc0aU95QnpjR3hwZENoekxDQmhMQ0FpTHlJcE95QndjbWx1ZENBa05DQWlJaUJoV3pGZGZTZDhkSElnSjF4dUp5QW5MQ2M3WldOb2J3PT0gfCBiYXNlNjQgLWQgfCBiYXNoJwphbGlhcyBmdWxsc2Nhbj0nbm1hcCAtcGBwb3J0c2AgLXNDIC1zViAtbyBmdWxsc2Nhbi5sb2cgJwphbGlhcyBhbGxwb3J0cz0nbWtjZCBubWFwICYmIHJ1YnkgL29wdC9ubWFwYmFyL25tYXBiYXIucmIgLWMgJwoKbWtjZCAoKQp7CgkgICAgICAgICAgbWtkaXIgLXAgLS0gIiQxIiAmJiBjZCAtUCAtLSAiJDEiCn0KCnNjYW4gKCkKewoJICAgICAgICAgIGFsbHBvcnRzICIkMSIgMT4vZGV2L251bGwgJiYgZWNobyAiJCh0cHV0IHNldGFmIDEpRnVsbCBQb3J0IFNjYW4gRmluaXNoZWQhICQodHB1dCBzZXRhYiAzKU5vdyBzdGFydGluZyB0YXJnZXRlZCBObWFwIHNjYW4kKHRwdXQgc2dyIDApIiAmJiBmdWxsc2NhbiAiJDEiIDE+L2Rldi9udWxsICYmIGJhdCBmdWxsc2Nhbi5sb2cgLWwgcW1sICYmIGNkIC4uCn0K |base64 -d >> ~/.bashrc
 
 and thats all
-open new bash session and initiate 'scan 10.10.**.**'
+open new bash session and initiate 'scan {insert target here:)}'
 
-[![Alt text](https://youtu.be/GvhDzO8-LJw)](https://www.youtube.com/watch?v=GvhDzO8-LJw)
+[![Video:](http://i3.ytimg.com/vi/GvhDzO8-LJw/hqdefault.jpg)](https://www.youtube.com/watch?v=GvhDzO8-LJw)
