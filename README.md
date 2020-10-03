@@ -62,5 +62,7 @@ echo YWxpYXMgcG9ydHM9J2VjaG8gWTJGMElHRnNiSEJ2Y25SekxteHZaeUI4SUdGM2F5QW5MMjl3Wlc
 and thats all
 open new bash session and initiate 'scan {insert target here:)}'
 
-<img src="https://www.offsec.dev/page/1/nmap.gif">
+<p align="center">
+  <img src="https://www.offsec.dev/page/1/nmap.gif" />
+</p>
 
