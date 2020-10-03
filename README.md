@@ -62,5 +62,5 @@ echo YWxpYXMgcG9ydHM9J2VjaG8gWTJGMElHRnNiSEJ2Y25SekxteHZaeUI4SUdGM2F5QW5MMjl3Wlc
 and thats all
 open new bash session and initiate 'scan {insert target here:)}'
 
-[![Video:](http://i3.ytimg.com/vi/GvhDzO8-LJw/hqdefault.jpg)](https://www.youtube.com/watch?v=GvhDzO8-LJw)
+<img src="https://www.offsec.dev/page/1/nmap.gif">
 
