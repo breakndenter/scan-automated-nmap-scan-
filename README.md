@@ -9,7 +9,7 @@ Print result of targeted scan with colors thanks to bat\
 Save both full ports and targeted ports scans inside newly created nmap folder (using -o instead of -oA... if needed adjust as you need)
 
 
-Prerequisites:
+Prerequisites:#Need to be installed first 
 
 bat - for colorfull output
 
@@ -63,3 +63,4 @@ and thats all
 open new bash session and initiate 'scan {insert target here:)}'
 
 [![Video:](http://i3.ytimg.com/vi/GvhDzO8-LJw/hqdefault.jpg)](https://www.youtube.com/watch?v=GvhDzO8-LJw)
+
