@@ -31,7 +31,7 @@ source:https://github.com/Mr-P4p3r/nmapbar
 *Important step:
 Since we are tasking nmapbar with the full port scan for its lovely progress bar we need to adjust it to our needs
 
-sed -i 's/nmap  \-sS \-A \-p\- \-n \-T4 \-oN completescan\#{ARGV\[1\]}.txt \#{ARGV\[1\]}"/nmap \-p\- \-T4 \-\-max\-retries 0 \-o allports.log \#{ARGV\[1\]}"/g' /opt/nmapbar/nmapbar.rb
+```sed -i 's/nmap  \-sS \-A \-p\- \-n \-T4 \-oN completescan\#{ARGV\[1\]}.txt \#{ARGV\[1\]}"/nmap \-p\- \-T4 \-\-max\-retries 0 \-o allports.log \#{ARGV\[1\]}"/g' /opt/nmapbar/nmapbar.rb```
 
 
 So what's left is to add some aliases to your bashrc and we are done :)
