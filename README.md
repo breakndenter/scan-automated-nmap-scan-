@@ -6,7 +6,7 @@ Steps performed:
 Full ports scan (can be adjusted via modification of nmapbar.rb ) with lovely progress bar thanks to nmapbar\
 Targeted port scan (-sC -sV) on found ports\
 Print result of targeted scan with colors thanks to bat\
-Save both full ports and targeted ports scans inside newly created nmap folder (using -o instead of -oA... if needed adjust as you need)\
+Save both full ports and targeted ports scans inside newly created nmap folder (using -o instead of -oA... if needed adjust as you need)
 
 
 Prerequisites:
