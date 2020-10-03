@@ -23,6 +23,7 @@ source:https://github.com/Mr-P4p3r/nmapbar
 (.bashrc looks for it in /opt so git clone there or edit bashrc)
 
 ============================================= 
+
 *Important step:
 Since we are tasking nmapbar with the full port scan for its lovely progress bar we need to adjust it to our needs
 
